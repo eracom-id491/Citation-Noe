@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<style media="screen">
+			body {
+				font-family: "futura";
+				background-color: #D00D00;
+				font-size: 24pt;
+				width:720pt;
+				margin:auto;
+				margin-top: 80pt;
+				text-shadow: 4px 4px #900009}
+			}
+			h1  {font-size: 40pt;}
+
+			p  {font-size: 18pt;
+					text-align: left;}
+
+		</style>
+		<title>Holly jesus</title>
+	</head>
+	<body>
+		<h1><link href="https://www.youtube.com/channel/UCDlGdGOozILyXGLqaeRrxgQ?view_as=subscriber" />"I have no data yet. It is a capital mistake to theorize before one has
+			data. Insensibly one begins to twist facts to suit theories, instead of
+			theories to suit facts."</h1>
+			<p>Sherlock Holmes</p>
+
+	</body>
+</html>
